@@ -36,8 +36,10 @@ const geraRelatorio = (valor) => {
     clicksTotais = clicksTotais + Math.floor(12 / 100 * views)
 
     console.log(`
-    Seu anúncio terá no máximo ${viewsTotais} visualizações!!
-    
+    Seu anúncio terá no máximo:
+     ${viewsTotais} visualizações
+     ${clicksTotais} cliques
+     ${compaTotais} compartilhamento(s)
     `)
 }
 
