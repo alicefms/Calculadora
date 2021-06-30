@@ -27,7 +27,9 @@ O arquivo executa o cálculo da quantidade máxima de visualizações, que o an�
 Mas o anúncio só pode ser compartilhado 4 vezes, sendo uma vez pela anunciante, de forma que o anuncio alcança no máximo a 4ª pessoa em sequencia (anunciante -> 1ª -> 2ª -> 3ª -> 4ª)
 
 Na lógica do arquivo, foi criada uma função 'calculaloop' que altera os valores das visualizações. cliques e compartilhaments a cada novo compartilhamento. (no máximo 3, considerando que o anúncio chega até a 4ª pessoa no máximo)
+
 E a função gera relatório que é quem recebe de fato o valor investido e retorna o máximo de visualizações alcançadas pelo anúncio.
+
 Não são exibidos números decimais porque "no máximo 30,6 visualizações" são 30 visualizações.
 
 ## Status do Arquivo 
