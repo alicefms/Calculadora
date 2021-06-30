@@ -7,7 +7,7 @@ Parte 1 do desafio da seleção para Academia Capgemini.
  * [Status do Arquivo ](##Status)
  * [Features](##Features)
  * [Como rodar a aplicação](##ComoRodar)
- * [Tecnologias](##Tecnologias)
+ * [Tecnologia](##Tecnologia)
  * [Autora](##Autora)
 
 
@@ -39,8 +39,8 @@ Desafio concluído e entregue.
 ## Features
 
 - [x] Captura do valor informado pelo usuário
-- [x] Cálculo do alcance do anúncio
-- [x] Exibição no console do resultado do cálculo
+- [x] Calcula o alcance do anúncio
+- [x] Exibe no console o resultado do cálculo
 
 
 ## Como rodar a aplicação
