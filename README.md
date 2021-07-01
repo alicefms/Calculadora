@@ -1,6 +1,8 @@
 # Calculadora de alcance de anúncio
 
-Parte 1 do desafio da seleção para Academia Capgemini.
+Parte 1 do desafio da seleção para Academia Capgemini. 
+Repositório com arquivo único.
+A parte 2 do desafio está no link: https://github.com/alicefms/Calculadora--parte2
 
 
  * [Descrição](##Descrição)
