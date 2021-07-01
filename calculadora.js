@@ -51,7 +51,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-function retornaOuEncerra() {
+function interage() {
     rl.question(`
     Para saber a projeção do alcance do seu anúncio, digite o valor que deseja investir: `, (inputUsuario) => {
         geraRelatorio(inputUsuario)
@@ -59,4 +59,4 @@ function retornaOuEncerra() {
     })
 }
 
-retornaOuEncerra()
+interage()
